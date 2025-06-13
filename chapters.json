@@ -1,0 +1,20 @@
+[
+    {
+        "numero": 1,
+        "titulo": "El Primer Encuentro",
+        "descripcion": "Gravillo y Chispa inician su 'existencia' con sus personalidades bien definidas.",
+        "archivo": "capitulo1.html"
+    },
+    {
+        "numero": 2,
+        "titulo": "El Brote Inesperado",
+        "descripcion": "Una pequeña semilla cambia la perspectiva de Gravillo (o no) de forma muy sorprendente.",
+        "archivo": "capitulo2.html"
+    },
+    {
+        "numero": 3,
+        "titulo": "La Roca con Jardín y la Piedra Rara",
+        "descripcion": "La vida de Gravillo se complica con una planta y la aparición de un nuevo e... interesante personaje.",
+        "archivo": "capitulo3.html"
+    }
+]
